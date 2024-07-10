@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anacatedazo 
-- 🌱 I’m currently learning how to create webpage and coding.
+- 👋 Hi, I’m Ana Cate
+- 🌱 My goal is to become a proficient web developer, capable of creating engaging and user-friendly websites.
 
 
 <!---
